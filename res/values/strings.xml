@@ -4,7 +4,7 @@
     <string name="app_name">Mystery</string>
     <string name="action_settings">Settings</string>
     <string name="no_notes">No Notes Yet</string>
-    <string name="menu_insert">Add Note</string>
+    <string name="action_insert">Add Note</string>
     <string name="menu_delete">Delete Note</string>
     <string name="title">Title</string>
     <string name="body">Body</string>
